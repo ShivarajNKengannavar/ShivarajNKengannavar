@@ -1,5 +1,6 @@
+<!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="github-banner.png" alt="GitHub Banner" style="max-width: 100%;">
+  <img src="https://github.com/user-attachments/assets/7eae47c6-8825-4de0-bb9d-a9108030ddba" alt="GitHub Banner" />
 </p>
 <!-- Short Intro -->
 <h1 align="center">Hi there 👋, I'm Shivaraj N Kengannavar</h1>
