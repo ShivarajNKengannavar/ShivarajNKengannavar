@@ -27,6 +27,8 @@
 
 <!-- Skills -->
 ### 🛠️ Skills & Tools
+![C](https://img.shields.io/badge/C-Language-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-Language-00599C?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
