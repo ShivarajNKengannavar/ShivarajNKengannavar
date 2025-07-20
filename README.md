@@ -17,15 +17,6 @@
 
 ---
 
-### 🚀 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivarajNKengannavar&show_icons=true&theme=radical" alt="Shivaraj's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivarajNKengannavar&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 <!-- Skills -->
 ### 🛠️ Skills & Tools
 ![C](https://img.shields.io/badge/C-Language-00599C?style=for-the-badge)
