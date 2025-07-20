@@ -16,13 +16,11 @@
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-
+### 🚀 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivarajkengannavar&show_icons=true&theme=radical" alt="Shivaraj's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivarajkengannavar&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivarajNKengannavar&show_icons=true&theme=radical" alt="Shivaraj's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivarajNKengannavar&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -42,7 +40,7 @@
 <!-- Contact -->
 ### 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivarajkengannavar/)
-- 🖥️ [GitHub](https://github.com/shivarajkengannavar)
-- 📧 Email: shivarajnkengannavar@gmail.com
+- 📧 Email: (mailto:shivarajkengannavar@gmail.com)
+- 🔗 LinkedIn: (https://www.linkedin.com/in/shivarajkengannavar/)
+- 💼 GitHub Portfolio: (https://github.com/ShivarajNKengannavar)
 
