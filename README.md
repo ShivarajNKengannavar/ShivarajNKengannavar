@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner" alt="GitHub Banner" style="max-width: 100%;">
+</p>
 ## Hi there 👋
 
 <!--
