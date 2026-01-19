@@ -36,5 +36,6 @@
 
 - 📧 Email: (mailto:shivarajkengannavar@gmail.com)
 - 🔗 LinkedIn: (https://www.linkedin.com/in/shivarajkengannavar/)
-- 💼 GitHub Portfolio: (https://github.com/ShivarajNKengannavar)
+- 💼 GitHub: (https://github.com/ShivarajNKengannavar)
+-  Portfolio: (https://shivarajnkengannavar-portfolio.vercel.app/)
 
