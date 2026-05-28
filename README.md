@@ -15,7 +15,7 @@
 
 ---
 
-🔭 &nbsp;Currently wrapping up my **B.Tech in CSE at CMR University** (CGPA 8.84) and building production-grade full-stack apps  
+🔭 &nbsp;Currently wrapping up my **B.Tech in CSE** (CGPA 8.84) and building production-grade full-stack apps  
 💼 &nbsp;Recent intern @ **SHLR Technosoft** — shipped 3 end-to-end platforms with Node.js, Angular & cloud deployment  
 🏗️ &nbsp;Projects span gym management, blockchain land registry, offline-first mobile apps, and steganographic encryption  
 🌱 &nbsp;Deep into **System Design, Redis caching, JWT auth, and scalable API architecture**  
@@ -79,14 +79,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivarajNKengannavar&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivarajNKengannavar&layout=compact&theme=default&hide_border=true" height="160" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
