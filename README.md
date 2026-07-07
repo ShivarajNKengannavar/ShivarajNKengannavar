@@ -16,11 +16,11 @@
 ---
 
 🔭 &nbsp;Currently wrapping up my **B.Tech in CSE** (CGPA 8.84) and building production-grade full-stack apps  
-💼 &nbsp;Recent intern @ **SHLR Technosoft** — shipped 3 end-to-end platforms with Node.js, Angular & cloud deployment  
+💼 &nbsp;Recent intern @ **SHLR Technosoft** - shipped 3 end-to-end platforms with Node.js, Angular & cloud deployment  
 🏗️ &nbsp;Projects span gym management, blockchain land registry, offline-first mobile apps, and steganographic encryption  
 🌱 &nbsp;Deep into **System Design, Redis caching, JWT auth, and scalable API architecture**  
-🏅 &nbsp;**Oracle Cloud Infrastructure – Architect Associate** certified  
-🎓 &nbsp;Freelance Technical Mentor — guided 5+ B.Tech capstone teams in Full-Stack & ML  
+🏅 &nbsp;**Oracle Cloud Infrastructure - Architect Associate** certified  
+🎓 &nbsp;Freelance Technical Mentor - guided 5+ B.Tech capstone teams in Full-Stack & ML  
 ⚡ &nbsp;State-level athlete and NCC cadet 💪  
 👯 &nbsp;Open to full-time SWE roles and open-source collaboration
 
