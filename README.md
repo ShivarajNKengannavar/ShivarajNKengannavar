@@ -99,6 +99,20 @@ shivaraj@dev:~$ cat credentials.log
 
 ---
 
+### `$ ./run contribution-snake.sh`
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivarajNKengannavar/ShivarajNKengannavar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShivarajNKengannavar/ShivarajNKengannavar/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ShivarajNKengannavar/ShivarajNKengannavar/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+<br/>
+
+---
+
 ### `$ git log --stats`
 
 <div align="center">
