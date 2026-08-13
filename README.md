@@ -1,167 +1,144 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7eae47c6-8825-4de0-bb9d-a9108030ddba" alt="Banner" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Shivaraj N Kengannavar</h1>
-<h3 align="center">Full-Stack Software Engineer — Angular · Node.js · PostgreSQL · Cloud Architecture</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7eae47c6-8825-4de0-bb9d-a9108030ddba">
+  <img src="https://github.com/user-attachments/assets/7eae47c6-8825-4de0-bb9d-a9108030ddba" width="100%" alt="banner">
+</picture>
 
-<p align="center">
-  <i>Building production-grade systems, one deliberate architectural decision at a time.</i>
-</p>
+<br/><br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivarajkengannavar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://shivarajnkengannavar-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:shivarajnkengannavar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/OCI-Architect_Associate-F80000?style=flat-square&logo=oracle&logoColor=white" alt="OCI Certified"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=%24+whoami;Shivaraj+N+Kengannavar;Full-Stack+Engineer+%7C+Cloud+Architect;Building+things+that+don%27t+break+in+production)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivarajNKengannavar&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+</div>
+
+<br/>
+
+```bash
+shivaraj@dev:~$ cat about.md
+```
+
+> Computer Science Engineering graduate turning caffeine and curiosity into shipped
+> software. I care less about "does it work" and more about "does it hold up at
+> 2 AM when something goes wrong." Currently sharpening that instinct at BEL, on
+> the Graduate Apprenticeship Programme.
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Connect-2E86DE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivarajkengannavar/)
+[![Portfolio](https://img.shields.io/badge/-View_Work-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://shivarajnkengannavar-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivarajnkengannavar@gmail.com)
+
+</div>
+
+<br/>
+
+```bash
+shivaraj@dev:~$ cat credentials.log
+```
+
+```
+[✓] B.Tech Computer Science Engineering — CGPA 8.84
+[✓] Oracle Cloud Infrastructure — Architect Associate
+[✓] BEL Graduate Apprenticeship Programme — CSE Trainee
+[✓] 5+ capstone teams mentored, Full-Stack & ML
+[✓] State-level athlete · NCC cadet
+[ ] Currently: open to full-time SWE roles
+```
+
+<br/>
 
 ---
 
-### About
+### `$ ls ./stack`
 
-I'm a Computer Science Engineering graduate (CGPA 8.84) currently completing the **BEL Graduate Apprenticeship Programme**, with a full-stack engineering background built through internships, self-directed production projects, and freelance mentorship. My work spans web platforms, blockchain systems, offline-first mobile apps, and applied cryptography — always with a focus on shipping something that actually holds up under real use.
+<div align="center">
 
-- 🏗️ &nbsp;Recently shipped a large-scale full-stack e-commerce platform (Angular 20 + Node/Express + PostgreSQL) — SEO, theming, payments, and image pipelines, end to end
-- 💼 &nbsp;Former intern at **SHLR Technosoft** — delivered 3 end-to-end platforms with Node.js, Angular, and cloud deployment
-- 🎓 &nbsp;Mentored 5+ B.Tech capstone teams across full-stack and ML tracks
-- 🥇 &nbsp;Oracle Cloud Infrastructure – Architect Associate certified
-- 🏃 &nbsp;State-level athlete and NCC cadet — discipline carries over from the field to the codebase
-- 📡 &nbsp;Open to full-time SWE roles and meaningful open-source collaboration
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,angular,react,html,css,nodejs,express,flask,postgres,mysql,mongodb,redis,aws,docker,git,github,solidity&theme=light" />
+
+</div>
+
+<br/>
 
 ---
 
-### Technical Stack
+### `$ ls ./projects --sort=impact`
 
-<table>
+<table align="center">
 <tr>
-<td valign="top" width="50%">
-
-**Languages**
-<br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend**
-<br/>
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**Backend**
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Data & Caching**
-<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Cloud, DevOps & Other**
-<br/>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-
-</td>
+<th>project</th>
+<th>stack</th>
+<th>notes</th>
+</tr>
+<tr>
+<td><b>🏋️ FitTrack</b></td>
+<td><code>Node · Angular · PostgreSQL · Redis</code></td>
+<td>Gym management platform — JWT auth, role dashboards, Redis caching, CI/CD on Render</td>
+</tr>
+<tr>
+<td><b>⛓️ BhoomiSetu</b></td>
+<td><code>Solidity · Flask · MongoDB · Web3.js</code></td>
+<td>Blockchain land registry — Ethereum contracts, MetaMask, tamper-proof records</td>
+</tr>
+<tr>
+<td><b>🅿️ ParkIt</b></td>
+<td><code>React · TS · Capacitor · Leaflet</code></td>
+<td>Offline-first parking app — IndexedDB, geofencing, AR compass, push alerts</td>
+</tr>
+<tr>
+<td><b>🔐 SecureStego</b></td>
+<td><code>Python · Flask · RSA/AES-GCM · FFmpeg</code></td>
+<td>Dual-layer crypto + steganography across image/audio/video — 99% data integrity</td>
 </tr>
 </table>
 
----
+<p align="center"><sub>full source → <a href="https://github.com/ShivarajNKengannavar">github.com/ShivarajNKengannavar</a></sub></p>
 
-### Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**FitTrack** — Gym Management Platform
 <br/>
-`Node.js` `Angular` `PostgreSQL` `Redis`
-
-JWT authentication, role-based dashboards, Redis-backed caching layer, CI/CD pipeline on Render.
-
-</td>
-<td width="50%" valign="top">
-
-**BhoomiSetu** — Blockchain Land Registry
-<br/>
-`Solidity` `Flask` `MongoDB` `Web3.js`
-
-Ethereum smart contracts with MetaMask integration for tamper-proof, verifiable property records.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**ParkIt** — Offline-First Parking App
-<br/>
-`React` `TypeScript` `Capacitor` `Leaflet.js`
-
-IndexedDB persistence, geofence alerts, AR compass navigation, native Android push notifications.
-
-</td>
-<td width="50%" valign="top">
-
-**SecureStego** — Applied Cryptography System
-<br/>
-`Python` `Flask` `RSA/AES-GCM` `FFmpeg`
-
-Dual-layer encryption with steganographic embedding across image, audio, and video — 99% data integrity.
-
-</td>
-</tr>
-</table>
-
-<p align="center"><i>All project links: <a href="https://github.com/ShivarajNKengannavar">github.com/ShivarajNKengannavar</a></i></p>
 
 ---
 
-### GitHub Activity
+### `$ git log --stats`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivarajNKengannavar&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivarajNKengannavar&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
-</p>
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShivarajNKengannavar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivarajNKengannavar&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivarajNKengannavar&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivarajNKengannavar&theme=tokyonight&hide_border=true&background=00000000" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivarajNKengannavar&theme=tokyo-night&hide_border=true&bg_color=00000000" width="90%" />
+</div>
+
+<br/>
 
 ---
 
-### Let's Connect
+### `$ ping shivaraj --contact`
 
-<p align="center">
-  📧 &nbsp;<a href="mailto:shivarajnkengannavar@gmail.com">shivarajnkengannavar@gmail.com</a> &nbsp;·&nbsp;
-  🔗 &nbsp;<a href="https://www.linkedin.com/in/shivarajkengannavar/">LinkedIn</a> &nbsp;·&nbsp;
-  💼 &nbsp;<a href="https://shivarajnkengannavar-portfolio.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
-  💻 &nbsp;<a href="https://github.com/ShivarajNKengannavar">GitHub</a>
-</p>
+<div align="center">
 
-<p align="center"><sub>Thanks for stopping by — always glad to talk architecture, systems, or a good technical rabbit hole.</sub></p>
+| Channel | Handle |
+|---|---|
+| 📧 Email | [shivarajnkengannavar@gmail.com](mailto:shivarajnkengannavar@gmail.com) |
+| 🔗 LinkedIn | [shivarajkengannavar](https://www.linkedin.com/in/shivarajkengannavar/) |
+| 💼 Portfolio | [shivarajnkengannavar-portfolio.vercel.app](https://shivarajnkengannavar-portfolio.vercel.app/) |
+| 💻 GitHub | [ShivarajNKengannavar](https://github.com/ShivarajNKengannavar) |
+
+</div>
+
+<br/>
+
+```bash
+shivaraj@dev:~$ echo "thanks for reading this far — let's build something."
+> thanks for reading this far — let's build something.
+shivaraj@dev:~$ ▍
+```
+
+<div align="center">
+<sub>⭐ from a fellow builder is always appreciated.</sub>
+</div>
