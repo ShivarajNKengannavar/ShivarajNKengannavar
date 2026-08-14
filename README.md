@@ -19,8 +19,7 @@ shivaraj@dev:~$ cat about.md
 
 > Computer Science Engineering graduate turning caffeine and curiosity into shipped
 > software. I care less about "does it work" and more about "does it hold up at
-> 2 AM when something goes wrong." Currently sharpening that instinct at BEL, on
-> the Graduate Apprenticeship Programme.
+> 2 AM when something goes wrong." 
 
 <br/>
 
@@ -41,10 +40,9 @@ shivaraj@dev:~$ cat credentials.log
 ```
 [✓] B.Tech Computer Science Engineering — CGPA 8.84
 [✓] Oracle Cloud Infrastructure — Architect Associate
-[✓] BEL Graduate Apprenticeship Programme — CSE Trainee
-[✓] 5+ capstone teams mentored, Full-Stack & ML
-[✓] State-level athlete · NCC cadet
-[ ] Currently: open to full-time SWE roles
+[✓] 5+ C
+.apstone teams mentored, Full-Stack & ML
+[ ] Currently: Open to full-time SWE roles
 ```
 
 <br/>
