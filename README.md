@@ -40,8 +40,7 @@ shivaraj@dev:~$ cat credentials.log
 ```
 [✓] B.Tech Computer Science Engineering — CGPA 8.84
 [✓] Oracle Cloud Infrastructure — Architect Associate
-[✓] 5+ C
-.apstone teams mentored, Full-Stack & ML
+[✓] 5+ Capstone teams mentored, Full-Stack & ML
 [ ] Currently: Open to full-time SWE roles
 ```
 
